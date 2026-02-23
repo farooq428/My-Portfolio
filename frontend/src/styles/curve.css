@@ -1,0 +1,27 @@
+.curve1{
+    margin-top: 100px;
+    width: 300px;
+    height: 300px;
+    color: black;
+    background-color: blue;
+    border-radius: 50%;
+}
+.curve2{
+    margin-top: 100px;
+    width: 300px;
+    height: 300px;
+    color: black;
+    background-color: blue;
+    border-radius: 50%;
+}.curve3{
+    margin-top: 100px;
+    width: 300px;
+    height: 300px;
+    color: black;
+    background-color: blue;
+    border-radius: 50%;
+}
+
+.curve{
+    display: flex;
+}
