@@ -1,5 +1,6 @@
 import React from 'react'
 import ImageComponent from '../components/ImageComponent'
+import Card1 from '../components/Card1';
 
 const Home = () => {
 
@@ -8,6 +9,7 @@ const Home = () => {
 
     <> 
     <ImageComponent />
+    <Card1/>
 
     </>
 

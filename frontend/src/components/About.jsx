@@ -1,8 +1,8 @@
 const About = () => {
   return (
-    <div className="absolute left-[47.3%] top-[17%]">
-      <h2 className="absolute w-[45vw] h-[4.7vw] font-['Raleway'] font-medium text-[2vw] leading-[3.7vw] tracking-[0.02em] capitalize flex items-center text-center text-white">
-        Full Stack Website Developer
+    <div className="absolute left-[45.8vw] top-[7vw]">
+      <h2 className="absolute w-[40vw] h-[4.7vw] font-['Raleway'] font-medium text-[1.5vw] leading-[3.7vw] tracking-[0.02em] capitalize flex items-center text-center text-white">
+        Full Stack Web Engineer
       </h2>
 
       <p className="absolute w-[45.1vw] h-[19.2vw]  font-['Raleway'] font-normal text-[1.5vw] leading-[130.19%] tracking-[0.045em] flex items-center text-white">
