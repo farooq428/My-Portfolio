@@ -2,7 +2,7 @@ import React from 'react'
 
 const WaveShape = () => {
   return (
-    <div> <svg className="absolute -top-0 left-0 w-full" viewBox="0 0 1920 1080" preserveAspectRatio="none">
+    <div> <svg className="absolute top-0 w-full" viewBox="0 0 1920 1080" preserveAspectRatio="none">
         <path
           className="fill-white"
           d="M0 588.175 

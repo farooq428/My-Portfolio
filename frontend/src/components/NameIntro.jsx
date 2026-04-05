@@ -1,15 +1,10 @@
-import React from "react";
-
-const NameIntro = ({ className = "" }) => {
-  // Add className prop
+const NameIntro = () => {
   return (
-    <div className={className}>
-      {" "}
-      {/* Apply className here */}
-      <span className="font-['Raleway'] font-normal text-[3vw] leading-[1.2] tracking-[0.05em] fill-[#2F61AC]">
+    <div className="absolute left-[11%] top-[25%]">
+      <h3 className="absolute w-[11.4vw] h-[4.7vw] left-0 top-0 font-['Raleway'] font-normal text-[4vw] leading-[4.7vw] tracking-[0.025em] text-white shadow-[0_0.4vw_0.4vw_rgba(0,0,0,0.25)]">
         Hello!
-      </span>
-      <h1 className="absolute w-[40vw] h-[11.8vw]  font-['Jellee'] font-normal text-[5vw] leading-[7.2vw] tracking-[0.105em] text-white">
+      </h3>
+      <h1 className="absolute w-[40vw] h-[11.8vw] left-0 top-[4.7vw] font-['Jellee'] font-normal text-[4vw] leading-[6.2vw] tracking-[0.105em] text-white">
         I'm FAROOQ
       </h1>
     </div>

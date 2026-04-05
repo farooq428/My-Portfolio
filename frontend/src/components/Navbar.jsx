@@ -6,12 +6,12 @@ const Navbar = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between h-16 pr-6">
           {/* Logo / Brand */}
-          <div className="shrink-0 text-white font-bold text-xl font-kaushan">
+          <div className="shrink-0 text-white font-bold text-[15px] font-kaushan">
             MyPortfolio
           </div>
 
           {/* Menu */}
-          <div className="hidden md:flex gap-[75px]  text-white font-raleway font-[400] fill-[#FFFFFF] tracking-[0.05em] text-[18px] justify-center items-center [ -webkit-text-stroke:1px_#000000 ] [ text-stroke-color:#000000 ]  ">
+          <div className="hidden md:flex gap-[75px]  text-white font-raleway font-[400] fill-[#FFFFFF] tracking-[0.05em] text-[18px] [ -webkit-text-stroke:1px_#000000 ] [ text-stroke-color:#000000 ]">
             <a
               href="#home"
               className="hover:text-gray-300 transition duration-300 font-raleway"

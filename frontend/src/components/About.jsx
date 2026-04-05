@@ -1,18 +1,14 @@
 const About = () => {
   return (
-    
-   
-          <div className="">
-            <h2 className="text-[30px] leading-normal mb-6 font-raleway font-medium tracking-[0.025em] text-white">
-              Full Stack Website Developer
-            </h2>
+    <div className="absolute left-[47.3%] top-[17%]">
+      <h2 className="absolute w-[45vw] h-[4.7vw] font-['Raleway'] font-medium text-[2vw] leading-[3.7vw] tracking-[0.02em] capitalize flex items-center text-center text-white">
+        Full Stack Website Developer
+      </h2>
 
-            <p className="text-white font-raleway">
-             MERN Stack Developer building modern, responsive web apps with MongoDB, Express.js, React.js, and Node.js. I focus on clean code, user-friendly interfaces, scalable backends, and real-world solutions — while always learning.
-            </p>
-          </div>
-
-        
+      <p className="absolute w-[45.1vw] h-[19.2vw]  font-['Raleway'] font-normal text-[1.5vw] leading-[130.19%] tracking-[0.045em] flex items-center text-white">
+       MERN Stack Developer building responsive web apps using MongoDB, Express, React, and Node.js. Focused on clean code, user-friendly design, scalable backends, and continuous learning.
+      </p>
+    </div>
   );
 };
 
