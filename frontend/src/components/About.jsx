@@ -1,6 +1,6 @@
 const About = () => {
   return (
-    <div className="absolute left-[45.8vw] top-[7vw]">
+    <div className="absolute left-[45.8vw] top-[7vw] ">
       <h2 className="absolute w-[40vw] h-[4.7vw] font-['Raleway'] font-medium text-[1.5vw] leading-[3.7vw] tracking-[0.02em] capitalize flex items-center text-center text-white">
         Full Stack Web Engineer
       </h2>

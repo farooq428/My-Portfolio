@@ -4,7 +4,7 @@ const WaveShape = () => {
   return (
     <div> <svg className="absolute top-[12vw] w-full" viewBox="0 0 1920 1400">
         <path
-          className="fill-white"
+          className="fill-white z-10 "
           d="M0 58.175 
              C26.63 626.876 139.806 682.992 427.406 597.85
              C468.239 583.337 551.234 570.437 615.146 597.85

@@ -8,7 +8,7 @@ import Ellipse1 from "./Ellipse1";
 
 const ImageComponent = () => {
   return (
-    <div className="relative w-full h-full">
+    <div className="relative w-full h-screen md:overflow-visible overflow-hidden">
       
       <img
       className="absolute w-full scale-150 top-[10vw]"
