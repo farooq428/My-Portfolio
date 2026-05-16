@@ -1,6 +1,6 @@
 const FindMe = () => {
   return (
-    <div className="absolute left-[45.8vw]  top-[22vw]">
+    <div className="absolute left-[49vw]  top-[16vw]">
       <h3 className="w-[14.4vw] h-[2.1vw] font-['Raleway'] font-medium text-[1.8vw] leading-[2.1vw] tracking-[0.05em] capitalize flex items-center text-center text-white">
         FIND ME ON
       </h3>

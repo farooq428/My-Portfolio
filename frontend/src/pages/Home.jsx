@@ -1,13 +1,10 @@
 import React from 'react'
 import ImageComponent from '../components/ImageComponent'
 import Card1 from '../components/Card1';
-import About from "../components/About";
-import NameIntro from "../components/NameIntro";
-import WaveShape from "../components/WaveShape";
-import FindMe from "../components/FindMe";
-import Experience from "../components/Experience";
-import Circles from "../components/Circles";
-import Ellipse1 from "../components/Ellipse1";
+import Card2 from '../components/Card2';
+import Card3 from '../components/Card3';
+import ServicesSection from '../components/ServicesSection';
+import DownloadCV from '../components/DownloadCV';
 
 
 const Home = () => {
@@ -17,14 +14,12 @@ const Home = () => {
 
     <> 
     <ImageComponent />
-     <NameIntro />
-       <About/>
-       <FindMe />
-       <Experience />
-       <Circles/>
-       <Ellipse1/>
-      <WaveShape />
+    
     <Card1/>
+    <Card2 />
+    <Card3 />
+    <ServicesSection />
+    <DownloadCV />
 
     </>
 

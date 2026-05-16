@@ -8,10 +8,10 @@ import Ellipse1 from "./Ellipse1";
 
 const ImageComponent = () => {
   return (
-    <div className="relative w-full h-screen md:overflow-visible overflow-hidden">
+    <div className="relative w-full ">
       
       <img
-      className="absolute w-full scale-150 top-[10vw]"
+      className="absolute w-full"
         src={import.meta.env.VITE_IMAGE_URL}
         alt="profile image"
         

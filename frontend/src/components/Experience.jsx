@@ -2,7 +2,7 @@ import React from "react";
 
 const Experience = () => {
   return ( <div>
-    <div className="absolute left-[45.8vw]  top-[32vw]">
+    <div className="absolute left-[49vw]  top-[27vw]">
       <h3 className="absolute  font-['Raleway'] font-medium text-[4vw] leading-[4.7vw] tracking-[0.10em] flex items-center text-white">
         20+
       </h3>
@@ -11,7 +11,7 @@ const Experience = () => {
 </h3>
     </div>
 
-    <div className="absolute left-[65vw]  top-[32vw]">
+    <div className="absolute left-[66.5vw]  top-[27vw]">
       <h3 className="absolute  font-['Raleway'] font-medium text-[3vw] leading-[4.7vw] tracking-[0.105em] flex items-center text-white">
         30+
       </h3>
@@ -21,7 +21,7 @@ const Experience = () => {
     </div> 
     
     
-     <div className="absolute left-[85vw]  top-[32vw]">
+     <div className="absolute left-[84vw] top-[27vw]">
       <h3 className="absolute  font-['Raleway'] font-medium text-[3vw] leading-[4.7vw] tracking-[0.105em] flex items-center text-white">
         10+
       </h3>
