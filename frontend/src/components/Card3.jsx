@@ -4,7 +4,7 @@ import { FaDatabase } from "react-icons/fa";
 const Card3 = () => {
   return (
     <div
-      className="absolute w-[22.021vw] h-[20.05vw] left-[29.5vw] top-[100.8vw] bg-white rounded-[1vw] group transition-all duration-300 ease-out hover:scale-105 hover:-translate-y-3 cursor-pointer"
+      className="absolute w-[22.021vw] h-[20.05vw] left-[29.5vw] top-[90.8vw] bg-white rounded-[1vw] group transition-all duration-300 ease-out hover:scale-105 hover:-translate-y-3 cursor-pointer"
       style={{
         boxShadow: "0 1.5vw 3vw rgba(0, 0, 0, 0.15), 0 0.5vw 1vw rgba(0, 0, 0, 0.1), inset -3.7vw -4vw 2.3vw rgba(47, 97, 172, 0.1)",
         transition: "all 0.3s cubic-bezier(0.2, 0.9, 0.4, 1.1)"

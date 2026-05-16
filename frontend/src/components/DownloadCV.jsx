@@ -21,7 +21,7 @@ function DownloadCV() {
       className=" absolute 
        leading-[1vw]
        left-[60.5vw]
-       top-[80vw]
+       top-[88.8vw]
        font-raleway "
     >
       <button

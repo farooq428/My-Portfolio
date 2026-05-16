@@ -6,7 +6,7 @@ const ServicesSection = () => {
       className="
         absolute
         left-[60.5vw]
-        top-[61vw]
+        top-[70.8vw]
         font-raleway
         max-w-[30vw]
       "
